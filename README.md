@@ -4,7 +4,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Asus ROG](https://img.shields.io/badge/Asus%20ROG-FF0000?style=for-the-badge&logo=asus&logoColor=white)
 ![Based on G-Helper](https://img.shields.io/badge/Based%20on-G--Helper-4ab8f5?style=for-the-badge&logo=github&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=openeditor&logoColor=white)
+![License](https://img.shields.io/badge/License-GPL--3.0-brightgreen?style=for-the-badge&logo=gnu&logoColor=white)
 
 A system tray application for monitoring battery status of Asus ROG Pugio II mouse via HID interface with real-time updates. This application can be adapted for other ROG mice models.
 
@@ -156,7 +156,7 @@ This application uses **Slovak as the native language of the creator**. Currentl
 
 ## License
 
-MIT License - see the [LICENSE](/LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](/LICENSE) file for details.
 
 ## Notes
 
